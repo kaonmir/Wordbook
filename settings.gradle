@@ -1,0 +1,2 @@
+rootProject.name='Wordbook'
+include ':app', ':opencv'

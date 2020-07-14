@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action1"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/abc_vector_test"
+        android:title="@string/camera" />
+    <item
+        android:id="@+id/action2"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/abc_vector_test"
+        android:title="@string/dictionary" />
+    <item
+        android:id="@+id/action3"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/abc_vector_test"
+        android:title="@string/wordbook" />
+    <item
+        android:id="@+id/action4"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/abc_vector_test"
+        android:title="@string/setting" />
+</menu>
